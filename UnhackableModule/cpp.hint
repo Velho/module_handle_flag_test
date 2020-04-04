@@ -1,0 +1,2 @@
+#define UNHACKABLEMODULE_API __declspec(dllexport)
+#define UNHACKABLEMODULE_API __declspec(dllimport)
